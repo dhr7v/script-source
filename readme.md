@@ -17,7 +17,7 @@ Directories, csv file, email sender credentials, and email content can be change
 
 
 Run :
-'''python v3donationscript.py
-'''
+python v3donationscript.py
+
 
 
